@@ -2,13 +2,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "Globen",
-      "url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
+      "title": "Post 1"
     },
     {
-      "id: 2,
-      "title": "Annexet",
-      "url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
