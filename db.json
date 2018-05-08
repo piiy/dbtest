@@ -2,15 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Globen"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Annexet"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Hovet"
     }
   ],
   "comments": [
