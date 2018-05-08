@@ -2,18 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Globen",
-      "url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
+      "name": "Globen",
+      "img_url": "http://www.superandy.se/wp-content/uploads/2012/05/globen.jpg"
     },
     {
       "id": 2,
-      "title": "Annexet",
-      "url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
+      "name": "Annexet",
+      "img_url": "https://www.stockholmlive.com/assets/img/Annexet_fasad_250x250.jpg"
     },
     {
       "id": 3,
-      "title": "Hovet",
-      "url": "https://res.cloudinary.com/pvt-group09/image/upload/v1525786490/Hovet.jpg"
+      "name": "Hovet",
+      "img_url": "https://res.cloudinary.com/pvt-group09/image/upload/v1525786490/Hovet.jpg"
     }
   ],
   "comments": [
